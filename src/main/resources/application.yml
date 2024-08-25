@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: bazarpay-assignment
+bazarpay:
+  base-url: "http://interview.qa.bazaarpay.net/"
+  first-username: "user_v9gN"
+  first-password: "7EdJxT"
+  second-username: "user_gZNG"
+  second-password: "cL5Ji9"
